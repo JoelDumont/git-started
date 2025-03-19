@@ -1,0 +1,6 @@
+= Git configuration tipps
+
+
+// use ssh instead of https
+// - retype pw all the time
+// - how to generate priv-key pub-key
