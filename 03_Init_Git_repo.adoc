@@ -1,0 +1,13 @@
+= Initialize a Git Repo
+
+. If you don't already have a Github-Account, https://github.com/[sign up at Github.com] +
+(with own email or https://10minutemail.net[10minute-mail])
+. Create a repository
++
+image::resources/create-github-repo.png[align=center]
+. Choose a name for the repo and create it
++
+image::resources/create-github-repo-2[align=center]
+. Done 🥳
++
+image::resources/create-github-repo-3.png[]

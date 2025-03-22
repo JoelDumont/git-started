@@ -1,5 +1,18 @@
 = About GIT
 
+== What is Git
+
+Git is a fast, scalable, distributed revision control system.
+
+* fast comparison between two version
+* easy way to merge conflicts
+* very detailed history of what changed and why
+* parts can easily be reverted
+* can be used offline
+* every change has a comment and an author
+* you decide, when and what the change contains
+* ...
+
 == Linus Torwalds
 
 Git was created in 2005 by Linus Torvalds, the same person who developed Linux, one of the most important operating systems in the world.
@@ -27,19 +40,6 @@ image::./resources/linus-first-commit.png[align=center]
 
 .initial ReadMe.md
 image::./resources/git-meaning.png[align=center]
-
-== But what is Git
-
-Git is a fast, scalable, distributed revision control system.
-
-* fast comparison between two version
-* easy way to merge conflicts
-* very detailed history of what changed and why
-* parts can easily be reverted
-* can be used offline
-* every change has a comment and an author
-* you decide, when and what will be in the version history
-* ...
 
 
 == Evolution: Then vs. Now

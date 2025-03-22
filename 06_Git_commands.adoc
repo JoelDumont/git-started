@@ -1,3 +1,0 @@
-= GIT commands
-
-link:resources/git-cheat-sheet-education.pdf[Git Cheat-Sheet]

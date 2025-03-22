@@ -6,8 +6,8 @@ image::resources/QR_Code_to_this_repo.png[width=30%,align=center]
 
 . xref:01_Why_Git.adoc[Why use Git]
 . xref:02_About_Git.adoc[About Git]
-. xref:03_First_GIT_repo.adoc[Git Repo setup]
-. xref:05_Git_configuration_tipps.adoc[Git configuration]
+. xref:03_Init_Git_repo.adoc[Git Repo setup]
+. xref:X_Git_configuration_tipps.adoc[Git configuration]
 .
 .
 .

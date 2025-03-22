@@ -1,5 +1,6 @@
 = Why use GIT
 
+Git is the most widely used **version control system (VCS)**, essential for software development, collaboration, and tracking changes efficiently. Here’s why you should use Git:
 
 == Manual versioning
 
@@ -21,6 +22,5 @@ Conventional version histories like the one from Microsoft-365 word are helpful 
 
 .Microsoft-365 Word
 image::resources/word_collaboration.png[]
-
 
 

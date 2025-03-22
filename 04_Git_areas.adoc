@@ -1,8 +1,0 @@
-= Git areas
-
-image::resources/git-areas.png[]
-
-
-// use ssh instead of https
-// - retype pw all the time
-// - how to generate priv-key pub-key
