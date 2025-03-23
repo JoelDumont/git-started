@@ -4,8 +4,8 @@
 .QR code to this repo
 image::resources/QR_Code_to_this_repo.png[width=30%,align=center]
 
-. xref:02_When_use_Git.adoc[About Git]
 . xref:01_About_Git.adoc[When use Git]
+. xref:02_When_use_Git.adoc[About Git]
 . xref:03_Init_Github_repo.adoc[Init GitHub Repo]
 . xref:04_Install_git.adoc[Setup Git]
 . xref:05_Terminology.adoc[Terminology]
