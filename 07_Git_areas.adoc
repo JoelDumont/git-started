@@ -1,4 +1,4 @@
-= Git Areas Explained
+= Areas
 
 
 image::resources/git-areas-example.png[align=center]
@@ -112,3 +112,9 @@ git commit -m "Added file.txt"
 git log --oneline  # File is in Repository
 ----
 
+
+[cols="a,a",frame=none,grid=none]
+|===
+|xref:06_Conventional_Commits.adoc[<= Conventional Commits]
+|xref:08_Branching.adoc[Branching =>]
+|===

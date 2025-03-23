@@ -1,0 +1,34 @@
+= When use GIT
+
+== Git vs. Other Version Control Systems
+
+[options="header"]
+|===
+|                           | Git  | SVN (Subversion)  | Mercurial (Hg)  | Perforce (Helix Core) | Fossil
+| **Distributed Version Control**  | ✅ Yes  | ❌ No (Centralized) | ✅ Yes  | ❌ No (Centralized) | ✅ Yes
+| **Works Offline**                | ✅ Yes  | ❌ No  | ✅ Yes  | ❌ No  | ✅ Yes
+| **Easy Branching & Merging**     | ✅ Yes  | ❌ No (Merging is harder) | ✅ Yes  | ❌ No (Heavy branching) | ✅ Yes
+| **Handles Large Binaries Well**  | ❌ No (Requires Git LFS) | ✅ Yes | ❌ No  | ✅ Yes (Optimized for big files) | ❌ No
+| **Best for Open Source**         | ✅ Yes  | ❌ No  | ✅ Yes  | ❌ No (Enterprise-focused) | ❌ No
+| **Best for Enterprises**         | ✅ Yes  | ✅ Yes (Legacy use) | ❌ No | ✅ Yes (Used in AAA gaming, finance) | ❌ No
+| **Built-in Web Interface**       | ❌ No (Needs GitHub/GitLab) | ❌ No | ❌ No | ❌ No | ✅ Yes (Fossil has built-in wiki & bug tracker)
+| **Windows-Friendly**             | ✅ Yes  | ✅ Yes | ✅ Yes | ✅ Yes | ✅ Yes
+| **Performance with Large Repos** | ❌ Slow (if too big) | ❌ Slow | ✅ Faster than Git | ✅ Optimized for large repos | ✅ Good
+|===
+
+== 🔥 Summary: Which One Should You Use?
+✅ **Use Git** → Best for general development, DevOps, open source. +
+✅ **Use SVN** → If you need a simple centralized system (easier for non-developers). +
+✅ **Use Mercurial** → If you want Git-like features with a simpler UI. +
+✅ **Use Perforce** → If you're handling **huge repositories** (AAA games, VFX). +
+✅ **Use Fossil** → If you need an **all-in-one** version control + wiki + bug tracking system.
+
+
+[cols="a,a",frame=none,grid=none]
+|===
+|xref:01_About_Git.adoc[<= About Git]
+|xref:03_Init_Github_repo.adoc[Init Github Repo =>]
+|===
+
+
+

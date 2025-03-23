@@ -1,4 +1,4 @@
-= GIT Commits
+= Conventional Commits
 
 
 == Conventional Commits
@@ -7,7 +7,7 @@ E.g. commit contains "fix: " as a prefix, then increment the patch-version
 
 Conventional-Commits:
 
-type: fix | feat | chore | docs | test +
+type: fix | feat | chore | docs | test | ... +
 breaking change: ! or BREAKING CHANGE
 ----
 <type>[optional scope]: <description>
@@ -32,9 +32,13 @@ Semantic-Versioning:
 
 image::resources/git-versioning.png[align=center]
 
+___
+📌 Demo control-room conventional-commits
 
-== Online tutorials
-* Try the 1. tutorial *Introduction to Git Commits*: https://learngitbranching.js.org[Git Tutorials]
+___
 
-== Command overview
-link:resources/git-cheat-sheet-education.pdf[Git Cheat-Sheet]
+[cols="a,a",frame=none,grid=none]
+|===
+|xref:05_Terminology.adoc[<= Terminology]
+|xref:07_Git_areas.adoc[Areas =>]
+|===

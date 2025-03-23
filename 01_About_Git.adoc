@@ -1,28 +1,16 @@
 = About GIT
 
-== What is Git
-
-Git is a fast, scalable, distributed revision control system.
-
-✅ fast comparison between two version +
-✅  easy way to merge conflicts +
-✅  very detailed history of what changed and why +
-✅  parts can easily be reverted +
-✅  can be used offline +
-✅  every change has a comment and an author +
-✅  you decide, when and what the change contains
-
 
 == Linus Torwalds
 
-Git was created in 2005 by Linus Torvalds, the same person who developed Linux, one of the most important operating systems in the world.
+Git was created in *2005 by Linus Torvalds*, the same person who developed Linux, one of the most important operating systems in the world.
 At that time, the Linux kernel project — with thousands of contributors — needed a fast, reliable, and distributed version control system. Existing tools either didn’t scale well or weren’t open source.
 So Linus designed Git to solve these problems:
 
 Speed
 Data integrity
 Support for distributed workflows
-In just a few weeks, Linus built the first version of Git. Today, Git has grown into the most popular version control system, used by millions of developers worldwide — from open-source projects to large corporations like Google and Microsoft. 1
+In just a few weeks, Linus built the first version of Git. Today, Git has grown into the most popular version control system, used by millions of developers worldwide — from open-source projects to large corporations like Google and Microsoft.
 
 [quote, Linus Torwalds]
 ____
@@ -62,10 +50,12 @@ image::./resources/git-2008-website.png[]
 
 === Website 2025
 image::./resources/git-2025-website.png[]
-link:./resources/book-pro-git.pdf[Git Pro Book]
 
-
-
+[cols="a,a",frame=none,grid=none]
+|===
+|
+|xref:02_When_use_Git.adoc[When use Git =>]
+|===
 
 
 

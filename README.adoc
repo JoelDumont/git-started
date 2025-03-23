@@ -4,13 +4,15 @@
 .QR code to this repo
 image::resources/QR_Code_to_this_repo.png[width=30%,align=center]
 
-. xref:01_Why_Git.adoc[Why use Git]
-. xref:02_About_Git.adoc[About Git]
-. xref:03_Init_Github_repo.adoc[Git Repo setup]
-. xref:X_Git_configuration_tipps.adoc[Git configuration]
-.
-.
-.
-.
+. xref:02_When_use_Git.adoc[About Git]
+. xref:01_About_Git.adoc[When use Git]
+. xref:03_Init_Github_repo.adoc[Init GitHub Repo]
+. xref:04_Install_git.adoc[Setup Git]
+. xref:05_Terminology.adoc[Terminology]
+. xref:06_Conventional_Commits.adoc[Conventional Commits]
+. xref:07_Git_areas.adoc[Areas]
+. xref:08_Branching.adoc[Branching]
+. xref:09_GIT_User_Interfaces.adoc[User Interfaces]
+. xref:10_Helpful_resources.adoc[Helpful resources]
 
 

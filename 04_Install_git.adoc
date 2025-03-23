@@ -133,3 +133,9 @@ ssh -T git@github.com
 ----
 Hi username! You've successfully authenticated, but GitHub does not provide shell access.
 ----
+
+[cols="a,a",frame=none,grid=none]
+|===
+|xref:03_Init_Github_repo.adoc[<= Init Github Repo]
+|xref:05_Terminology.adoc[Git Terminology =>]
+|===

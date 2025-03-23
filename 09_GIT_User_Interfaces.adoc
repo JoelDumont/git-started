@@ -1,4 +1,4 @@
-= Git User Interfaces
+= User Interfaces
 
 == ⚠️ A Note for Beginners: Use the Command Line First!
 
@@ -29,4 +29,9 @@ image::resources/git-kraken.png[]
 == Readify GitViz
 image::resources/readify-gitviz.png[]
 
-main push test
+
+[cols="a,a",frame=none,grid=none]
+|===
+|xref:08_Branching.adoc[<= Branching]
+|xref:10_Helpful_resources.adoc[Helpful Resources =>]
+|===

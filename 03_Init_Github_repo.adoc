@@ -11,3 +11,9 @@ image::resources/create-github-repo-2[align=center]
 . Done 🥳
 +
 image::resources/create-github-repo-3.png[]
+
+[cols="a,a",frame=none,grid=none]
+|===
+|xref:02_When_use_Git.adoc[<= When use Git]
+|xref:04_Install_git.adoc[Install Git =>]
+|===

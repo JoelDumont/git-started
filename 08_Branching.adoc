@@ -1,0 +1,27 @@
+== Branching
+
+
+=== Git-Flow vs GitHub-Flow
+
+source: https://quangnguyennd.medium.com/git-flow-vs-github-flow-620c922b2cbd[Medium-Article]
+
+=== Merge vs Rebase
+
+* Merge creates a new commit (merge-commit)
++
+This strategy is used by the git-project by itself:
+
+image::resources/git-merge.png[]
+
+* Rebase adds commits at the end of the target branch without a new commit and assures a linear history.
+
+image::resources/rebase-strategy.png[]
+___
+📌 Try the 2. tutorial *Branching in Git*: https://learngitbranching.js.org[Git Tutorials]
+
+
+[cols="a,a",frame=none,grid=none]
+|===
+|xref:07_Git_areas.adoc[<= Areas]
+|xref:09_GIT_User_Interfaces.adoc[User Interfaces =>]
+|===

@@ -1,0 +1,15 @@
+= Helpful resources
+
+
+== Shortcut Cheat-Sheet
+link:resources/git-cheat-sheet-education.pdf[Git Cheat-Sheet]
+
+== The GIT-Bible
+Link to: link:./resources/book-pro-git.pdf[Git Pro Book]
+
+
+[cols="a,a",frame=none,grid=none]
+|===
+|xref:09_GIT_User_Interfaces.adoc[<= User Interfaces]
+|
+|===
