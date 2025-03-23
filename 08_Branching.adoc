@@ -19,6 +19,7 @@ image::resources/rebase-strategy.png[]
 ___
 📌 Try the 2. tutorial *Branching in Git*: https://learngitbranching.js.org[Git Tutorials]
 
+___
 
 [cols="a,a",frame=none,grid=none]
 |===

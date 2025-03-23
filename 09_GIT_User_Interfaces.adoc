@@ -4,7 +4,7 @@
 
 While **Git GUIs** can make things easier, it is highly recommended that beginners start with the **command line**.
 
-✅ **Why?**
+**Why?**
 - You gain a **deeper understanding** of how Git works.
 - You can **troubleshoot errors** more effectively.
 - The command line works **consistently across all platforms**.
@@ -23,12 +23,13 @@ image::resources/intellij-git.png[]
 . Commit History
 . Commit Infos (Message & changed files)
 
-== GitKraken
-image::resources/git-kraken.png[]
-
-== Readify GitViz
+== https://github.com/Readify/GitViz[Readify GitViz]
 image::resources/readify-gitviz.png[]
 
+== More UI's
+* https://www.gitkraken.com/[GitKraken]
+* https://desktop.github.com/download/[GitHub Desktop] +
+* https://www.sourcetreeapp.com/[Sourcetree]
 
 [cols="a,a",frame=none,grid=none]
 |===
