@@ -4,14 +4,14 @@
 
 Git is a fast, scalable, distributed revision control system.
 
-* fast comparison between two version
-* easy way to merge conflicts
-* very detailed history of what changed and why
-* parts can easily be reverted
-* can be used offline
-* every change has a comment and an author
-* you decide, when and what the change contains
-* ...
+✅ fast comparison between two version +
+✅  easy way to merge conflicts +
+✅  very detailed history of what changed and why +
+✅  parts can easily be reverted +
+✅  can be used offline +
+✅  every change has a comment and an author +
+✅  you decide, when and what the change contains
+
 
 == Linus Torwalds
 

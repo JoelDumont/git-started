@@ -38,7 +38,7 @@ Using SSH keys with GitHub allows secure authentication without entering your pa
 
 Before generating a new key, check if you already have one.
 
-📌 **Run this command:**
+**Run this command:**
 [source,sh]
 ----
 ls -al ~/.ssh
@@ -52,7 +52,7 @@ If you see files like `id_rsa.pub`, `id_ed25519.pub`, or `id_dsa.pub`, an SSH ke
 
 If you don’t have an existing key or want to create a new one, generate it using:
 
-📌 **Command (recommended Ed25519 algorithm):**
+**Command (recommended Ed25519 algorithm):**
 [source,sh]
 ----
 ssh-keygen -t ed25519 -C "your_email@example.com"
@@ -64,7 +64,7 @@ If your system does not support `ed25519`, use RSA (less recommended):
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 ----
 
-📌 **Follow these steps:**
+**Follow these steps:**
 - When prompted, **press Enter** to save the key in the default location (`~/.ssh/id_ed25519`).
 - Enter a **secure passphrase** (or leave it empty for no passphrase).
 
@@ -74,13 +74,13 @@ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 
 To use the SSH key, add it to the SSH agent:
 
-📌 **Start the SSH agent:**
+**Start the SSH agent:**
 [source,sh]
 ----
 eval "$(ssh-agent -s)"
 ----
 
-📌 **Add your key to the agent:**
+**Add your key to the agent:**
 [source,sh]
 ----
 ssh-add ~/.ssh/id_ed25519
@@ -92,13 +92,13 @@ ssh-add ~/.ssh/id_ed25519
 
 Now, copy the SSH key to add it to GitHub.
 
-📌 **Command to copy the key:**
+**Command to copy the key:**
 [source,sh]
 ----
 cat ~/.ssh/id_ed25519.pub
 ----
 
-📌 **Alternatively, use:**
+**Alternatively, use:**
 [source,sh]
 ----
 clip < ~/.ssh/id_ed25519.pub  # Windows (Git Bash)
@@ -122,13 +122,13 @@ xclip -sel clip < ~/.ssh/id_ed25519.pub  # Linux
 
 Verify that the SSH key works with GitHub:
 
-📌 **Run this command:**
+**Run this command:**
 [source,sh]
 ----
 ssh -T git@github.com
 ----
 
-📌 **Expected output:**
+**Expected output:**
 
 ----
 Hi username! You've successfully authenticated, but GitHub does not provide shell access.

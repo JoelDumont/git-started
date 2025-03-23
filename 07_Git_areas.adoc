@@ -8,18 +8,18 @@ In **Git**, there are three main **areas** where changes can exist in a reposito
 
 == 🔹 1. Working Directory (Untracked & Modified Files)
 
-📌 **What is it?**
+**What is it?**
 - The **working directory** (or working tree) is where you make changes to files.
 - Any modified or newly created files exist **only in your local copy** of the repository.
 
-📌 **How to check?**
+**How to check?**
 [source,sh]
 ----
 git status
 ----
 - Files listed as **"modified"** or **"untracked"** are in the **working directory**.
 
-📌 **Example:**
+**Example:**
 [source,sh]
 ----
 echo "Hello World" > file.txt  # Create a new file
@@ -30,24 +30,24 @@ git status  # Shows "Untracked files: file.txt"
 
 == 🔹 2. Staging Area (Index)
 
-📌 **What is it?**
+**What is it?**
 - The **staging area** (also called the **index**) is where Git tracks changes you intend to commit.
 - Before committing, files must be **added to the staging area** using `git add`.
 
-📌 **How to move files to staging?**
+**How to move files to staging?**
 [source,sh]
 ----
 git add file.txt  # Moves file.txt to staging
 ----
 
-📌 **Check staged files:**
+**Check staged files:**
 [source,sh]
 ----
 git status
 ----
 - Files in the **staging area** appear as **"Changes to be committed"**.
 
-📌 **Example:**
+**Example:**
 [source,sh]
 ----
 git add file.txt
@@ -59,24 +59,24 @@ git status
 
 == 🔹 3. Git Repository (Committed History)
 
-📌 **What is it?**
+**What is it?**
 - The **Git repository** (also called **.git directory**) stores committed changes **permanently**.
 - Commits are saved as snapshots and linked to previous commits.
 
-📌 **How to commit staged files?**
+**How to commit staged files?**
 [source,sh]
 ----
 git commit -m "Added file.txt"
 ----
 - Now the change is saved in the **repository history**.
 
-📌 **Check commit history:**
+**Check commit history:**
 [source,sh]
 ----
 git log --oneline
 ----
 
-📌 **Example:**
+**Example:**
 [source,sh]
 ----
 git commit -m "Added file.txt"
