@@ -22,4 +22,9 @@ Cloud based version histories like the one from Microsoft-365 word are helpful t
 .Microsoft-365 Word
 image::resources/word_collaboration.png[]
 
+[cols="a,a",frame=none,grid=none]
+|===
+|
+|xref:01_About_Git.adoc[About Git =>]
+|===
 

@@ -63,7 +63,7 @@ image::./resources/git-2025-website.png[]
 
 [cols="a,a",frame=none,grid=none]
 |===
-|
+|xref:00_What_is_a_SCM.adoc[<= What is a SCM]
 |xref:02_When_use_Git.adoc[When use Git =>]
 |===
 
