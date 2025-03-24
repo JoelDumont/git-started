@@ -2,7 +2,7 @@
 
 
 
-image::resources/linux-headquarters.png[]
+image::resources/linux-headquarters.png[width=50%,align=center]
 
 == Linus Torwalds
 
@@ -54,9 +54,6 @@ image::./resources/git-2008-website.png[]
 === Website 2025
 image::./resources/git-2025-website.png[]
 
-
-== Evolution of the git repo
-video::resources/output.mp4[width=100%,align=center]
 
 [cols="a,a",frame=none,grid=none]
 |===
