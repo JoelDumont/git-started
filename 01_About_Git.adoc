@@ -1,6 +1,9 @@
 = About GIT
 
 
+
+image::resources/linux-headquarters.png[]
+
 == Linus Torwalds
 
 Git was created in *2005 by Linus Torvalds*, the same person who developed Linux, one of the most important operating systems in the world.
@@ -50,6 +53,10 @@ image::./resources/git-2008-website.png[]
 
 === Website 2025
 image::./resources/git-2025-website.png[]
+
+
+== Evolution of the git repo
+video::resources/output.mp4[width=100%,align=center]
 
 [cols="a,a",frame=none,grid=none]
 |===

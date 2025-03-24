@@ -4,7 +4,7 @@
 
 [options="header"]
 |===
-|                           | Git  | SVN (Subversion)  | Mercurial (Hg)  | Perforce (Helix Core) | Fossil
+|                                  | Git  | SVN (Subversion)  | Mercurial (Hg)  | Perforce (Helix Core) | Fossil
 | **Distributed Version Control**  | ✅ Yes  | ❌ No (Centralized) | ✅ Yes  | ❌ No (Centralized) | ✅ Yes
 | **Works Offline**                | ✅ Yes  | ❌ No  | ✅ Yes  | ❌ No  | ✅ Yes
 | **Easy Branching & Merging**     | ✅ Yes  | ❌ No (Merging is harder) | ✅ Yes  | ❌ No (Heavy branching) | ✅ Yes
