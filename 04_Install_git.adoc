@@ -33,7 +33,7 @@ git --version
 
 Using SSH keys with GitHub allows secure authentication without entering your password each time you push or pull code. Follow these steps to generate an SSH key and add it to GitHub.
 
-
+image::resources/use-ssh-vs-https.png[align=center,width=50%]
 === ✅ 1. Check for Existing SSH Keys
 
 Before generating a new key, check if you already have one.

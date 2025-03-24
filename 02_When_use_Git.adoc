@@ -4,16 +4,9 @@
 
 [options="header"]
 |===
-|                                  | Git  | SVN (Subversion)  | Mercurial (Hg)  | Perforce (Helix Core) | Fossil
-| **Distributed Version Control**  | ✅ Yes  | ❌ No (Centralized) | ✅ Yes  | ❌ No (Centralized) | ✅ Yes
-| **Works Offline**                | ✅ Yes  | ❌ No  | ✅ Yes  | ❌ No  | ✅ Yes
-| **Easy Branching & Merging**     | ✅ Yes  | ❌ No (Merging is harder) | ✅ Yes  | ❌ No (Heavy branching) | ✅ Yes
-| **Handles Large Binaries Well**  | ❌ No (Requires Git LFS) | ✅ Yes | ❌ No  | ✅ Yes (Optimized for big files) | ❌ No
-| **Best for Open Source**         | ✅ Yes  | ❌ No  | ✅ Yes  | ❌ No (Enterprise-focused) | ❌ No
-| **Best for Enterprises**         | ✅ Yes  | ✅ Yes (Legacy use) | ❌ No | ✅ Yes (Used in AAA gaming, finance) | ❌ No
-| **Built-in Web Interface**       | ❌ No (Needs GitHub/GitLab) | ❌ No | ❌ No | ❌ No | ✅ Yes (Fossil has built-in wiki & bug tracker)
-| **Windows-Friendly**             | ✅ Yes  | ✅ Yes | ✅ Yes | ✅ Yes | ✅ Yes
-| **Performance with Large Repos** | ❌ Slow (if too big) | ❌ Slow | ✅ Faster than Git | ✅ Optimized for large repos | ✅ Good
+| | Git | SVN (Subversion) | Mercurial (Hg) | Perforce (Helix Core) | Fossil | Sapling (Meta) | GVFS (Microsoft) | Bazel (Google)
+| Distributed Version Control | ✅ Yes | ❌ No (Centralized) | ✅ Yes | ❌ No (Centralized) | ✅ Yes | ✅ Yes (Git-like) | ❌ No (Virtualized) | ❌ No (Build system) | Works Offline | ✅ Yes | ❌ No | ✅ Yes | ❌ No | ✅ Yes | ✅ Yes (Virtualized) | ✅ Yes (Cache) | ❌ No (Requires Git) | Easy Branching & Merging | ✅ Yes | ❌ No (Merging is harder) | ✅ Yes | ❌ No (Heavy branching) | ✅ Yes | ✅ Yes (Optimized) | ✅ Yes (Efficient) | ✅ No (Build tool) | Handles Large Binaries Well | ❌ No (Requires Git LFS) | ✅ Yes | ❌ No | ✅ Yes (Optimized for big files) | ❌ No | ✅ Yes (Optimized) | ✅ Yes (Optimized for large files) | ✅ Yes (Efficient builds) | Best for Open Source | ✅ Yes | ❌ No | ✅ Yes | ❌ No (Enterprise-focused) | ❌ No | ❌ No (Meta-only) | ❌ No (Microsoft) | ❌ No (Build tool) | Best for Enterprises | ✅ Yes | ✅ Yes (Legacy use) | ❌ No | ✅ Yes (Used in AAA gaming, finance) | ❌ No | ❌ No (Meta-only) | ✅ Yes (Microsoft) | ✅ Yes (Large scale builds) | Built-in Web Interface | ❌ No (Needs GitHub/GitLab) | ❌ No | ❌ No | ❌ No | ✅ Yes (Fossil has built-in wiki & bug tracker) | ❌ No (Git-like) | ❌ No (Requires Git) | ❌ No (Not a VCS) | Windows-Friendly | ✅ Yes | ✅ Yes | ✅ Yes | ✅ Yes | ✅ Yes | ✅ Yes (Git-like) | ✅ Yes (Virtualized) | ✅ Yes (Windows support) | Performance with Large Repos | ❌ Slow (if too big) | ❌ Slow | ✅ Faster than Git | ✅ Optimized for large repos | ✅ Good | ✅ Excellent (Optimized) | ✅ Excellent (Git scalability) | ✅ Excellent (Build speed)
+
 |===
 
 == 🔥 Summary: Which One Should You Use?
@@ -21,8 +14,10 @@
 ✅ **Use SVN** → If you need a simple centralized system (easier for non-developers). +
 ✅ **Use Mercurial** → If you want Git-like features with a simpler UI. +
 ✅ **Use Perforce** → If you're handling **huge repositories** (AAA games, VFX). +
-✅ **Use Fossil** → If you need an **all-in-one** version control + wiki + bug tracking system.
-
+✅ **Use Fossil** → If you need an **all-in-one** version control + wiki + bug tracking system. +
+✅ **Use Sapling** → If you're managing large monorepos (Meta-scale projects, with better merge and commit performance than Git). +
+✅ **Use GVFS** → If you're working with large Git-based monorepos (Microsoft's solution for scaling Git with virtualized file systems). +
+✅ **Use Bazel** → If you need fast, reproducible builds in large monorepos (Google's tool, works with Git and other VCS). +
 
 [cols="a,a",frame=none,grid=none]
 |===

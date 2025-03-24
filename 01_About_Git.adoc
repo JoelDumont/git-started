@@ -55,6 +55,10 @@ image::./resources/git-2008-website.png[]
 image::./resources/git-2025-website.png[]
 
 
+== There are still people that don't understand git
+image::resources/manual-file-versioning.png[align=center,width=30%]
+
+
 [cols="a,a",frame=none,grid=none]
 |===
 |
