@@ -32,6 +32,12 @@ image::./resources/linus-first-commit.png[align=center]
 .initial ReadMe.md
 image::./resources/git-meaning.png[align=center]
 
+___
+📌 Demo first git commit +
+📌 Show git repo evolution
+
+___
+
 
 == Evolution: Then vs. Now
 
@@ -53,10 +59,6 @@ image::./resources/git-2008-website.png[]
 
 === Website 2025
 image::./resources/git-2025-website.png[]
-
-
-== There are still people that don't understand git
-image::resources/manual-file-versioning.png[align=center,width=30%]
 
 
 [cols="a,a",frame=none,grid=none]
