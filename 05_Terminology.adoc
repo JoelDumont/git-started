@@ -1,7 +1,8 @@
 = Terminology
 
-image::resources/git-terminology.png[]
+A Git-Repo consists of the following elements:
 
+image::resources/git-terminology.png[]
 
 == Commit
 A *commit* in a git repository records a snapshot of all the (tracked) files in your directory. It's like a giant copy and paste, but even better!
@@ -51,12 +52,12 @@ git switch -c "<branch-name>"
 
 * HEAD is a pointer in Git that shows your current working location (commit or branch).
 
-image::resources/git-head-on-branch.png[]
+image::resources/git-head-on-branch.png[align=center,width=40%]
 * It typically points to the latest commit on the current branch.
 
 * A detached HEAD state occurs when HEAD points to a specific commit, not a branch.
 
-image::resources/detached-head.png[]
+image::resources/detached-head.png[align=center,width=40%]
 
 
 ___

@@ -1,12 +1,19 @@
 = Helpful resources
 
 
-== Shortcut Cheat-Sheet
+=== Shortcut Cheat-Sheet
 link:resources/git-cheat-sheet-education.pdf[Git Cheat-Sheet]
 
-== The GIT-Bible
+=== The GIT-Bible
 Link to: link:./resources/book-pro-git.pdf[Git Pro Book]
 
+
+=== Git-Flow vs GitHub-Flow
+source: https://quangnguyennd.medium.com/git-flow-vs-github-flow-620c922b2cbd[Medium-Article]
+
+
+=== The Honest Git Glossary
+image::resources/honest-git-glossary.png[align=center,width=500]
 
 [cols="a,a",frame=none,grid=none]
 |===
