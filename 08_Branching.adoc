@@ -25,7 +25,8 @@ image::resources/rebase-strategy.png[]
 
 image::resources/rebase-clean.png[align=center,width=60%]
 ___
-📌 Try the 2. tutorial *Branching in Git*: https://learngitbranching.js.org[Git Tutorials]
+📌 Provoke a merge-conflict
+📌 Try the 2. tutorial *Branching in Git*: https://learngitbranching.js.org[Git Tutorials] +
 
 ___
 
