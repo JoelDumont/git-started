@@ -1,7 +1,7 @@
 = Areas
 
 
-image::resources/git-areas-example.png[align=center]
+image::resources/git-areas-example.png[align=center,width=80%]
 
 
 In **Git**, there are three main **areas** where changes can exist in a repository:
