@@ -12,8 +12,7 @@ Git wants to keep commits as lightweight as possible though, so it doesn't just 
 ----
 git commit -m "<commit-message>"
 ----
-___
-📌 Check the commits of this repo
+
 
 == Tags
 
