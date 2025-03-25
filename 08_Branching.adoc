@@ -11,7 +11,7 @@ image::resources/merge-viz.png[align=center,width=50%]
 +
 This strategy is used by the git-project by itself:
 
-image::resources/git-merge.png[]
+image::resources/git-merge.png[align=center,width=100%]
 
 ==== Rebase
 
@@ -20,12 +20,12 @@ image::resources/git-merge.png[]
 
 image::resources/rebase-viz.png[align=center,width=50%]
 
-image::resources/rebase-strategy.png[]
+image::resources/rebase-strategy.png[align=center,width=100%]
 
 
 image::resources/rebase-clean.png[align=center,width=60%]
 ___
-📌 Provoke a merge-conflict
+📌 Provoke a merge-conflict +
 📌 Try the 2. tutorial *Branching in Git*: https://learngitbranching.js.org[Git Tutorials] +
 
 ___

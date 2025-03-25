@@ -5,6 +5,7 @@
 A specification like https://www.conventionalcommits.org/en/v1.0.0/[Conventional-Commits] can help to have a more uniform commit-history and enables you to generate versions depending on the commit title.
 E.g. commit contains "fix: " as a prefix, then increment the patch-version
 
+image::resources/conventional-commits.png[]
 Conventional-Commits:
 
 type: fix | feat | chore | docs | test | ... +
