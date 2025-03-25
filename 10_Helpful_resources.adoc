@@ -18,6 +18,8 @@ image::resources/honest-git-glossary.png[align=center,width=500]
 === Original Linus Torvalds presentation
 https://www.youtube.com/watch?v=4XpnKHJAok8[Linus on Git]
 
+=== Build your own x
+https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file#build-your-own-git[Build your own Git]
 
 [cols="a,a",frame=none,grid=none]
 |===
