@@ -4,7 +4,7 @@
 
 image::resources/linux-headquarters.png[width=50%,align=center]
 
-== Linus Torwalds
+== Linux Torwalds
 
 Git was created in *2005 by Linus Torvalds*, the same person who developed Linux, one of the most important operating systems in the world.
 At that time, the Linux kernel project — with thousands of contributors — needed a fast, reliable, and distributed version control system. Existing tools either didn’t scale well or weren’t open source.
