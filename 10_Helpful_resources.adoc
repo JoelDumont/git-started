@@ -15,6 +15,10 @@ source: https://quangnguyennd.medium.com/git-flow-vs-github-flow-620c922b2cbd[Me
 === The Honest Git Glossary
 image::resources/honest-git-glossary.png[align=center,width=500]
 
+=== Original Linus Torvalds presentation
+https://www.youtube.com/watch?v=4XpnKHJAok8[Linus on Git]
+
+
 [cols="a,a",frame=none,grid=none]
 |===
 |xref:09_GIT_User_Interfaces.adoc[<= User Interfaces]
