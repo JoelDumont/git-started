@@ -1,8 +1,10 @@
 = GIT-Started
 
 
-.QR code to this repo ( qrfy.io/r/UGJabpw6EE )
+
 image::resources/QR_Code_to_this_repo.png[width=30%,align=center]
+[.text-center]
+QR code to this repo ( qrfy.io/r/UGJabpw6EE )
 
 . xref:00_What_is_a_SCM.adoc[ What is a SCM (Source Control Management)]
 . xref:01_About_Git.adoc[About Git]
