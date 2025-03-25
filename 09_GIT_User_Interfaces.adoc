@@ -14,6 +14,14 @@ Once you're comfortable with **basic Git commands** like `git add`, `git commit`
 
 💡 **Start with the command line, master the fundamentals, and then decide if you want a GUI!** 🚀
 
+== Git Built-in
+
+[sh]
+----
+gitk
+----
+
+image::resources/git-k-ui.png[]
 
 == Intellij
 image::resources/intellij-git.png[]
