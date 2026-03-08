@@ -1,6 +1,7 @@
 = What is a SCM (Source Control Management)
 
 
+
 == Manual versioning
 
 Who doesn't know it. One creates a new document and save a V1 to make sure we don't loose anythig we previously worked on. Then V2 and so on.
