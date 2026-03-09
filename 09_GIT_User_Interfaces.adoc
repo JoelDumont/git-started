@@ -10,7 +10,7 @@ While **Git GUIs** can make things easier, it is highly recommended that beginne
 - The command line works **consistently across all platforms**.
 - Most advanced Git operations require the **terminal** anyway!
 
-Once you're comfortable with **basic Git commands** like `git add`, `git commit`, `git push`, and `git pull`, then you can explore GUI tools like **GitKraken, Jetbrains Intellij, or GitHub Desktop**.
+Once you're comfortable with **basic Git commands** like `git add`, `git commit`, `git push`, and `git pull`, then you can explore GUI tools like **GitKraken, JetBrains IntelliJ, or GitHub Desktop**.
 
 💡 **Start with the command line, master the fundamentals, and then decide if you want a GUI!** 🚀
 
@@ -34,7 +34,7 @@ image::resources/intellij-git.png[]
 == https://github.com/Readify/GitViz[Readify GitViz]
 image::resources/readify-gitviz.png[]
 
-== More UI's
+== More UIs
 * https://www.gitkraken.com/[GitKraken]
 * https://desktop.github.com/download/[GitHub Desktop] +
 * https://www.sourcetreeapp.com/[Sourcetree]

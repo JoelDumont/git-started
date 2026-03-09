@@ -1,6 +1,6 @@
 = Initialize a GitHub Repo
 
-. If you don't already have a Github-Account, https://github.com/[sign up at Github.com] +
+. If you don't already have a GitHub account, https://github.com/[sign up at GitHub.com] +
 (with own email or https://10minutemail.net[10minute-mail])
 . Create a repository
 +
@@ -14,6 +14,6 @@ image::resources/create-github-repo-3.png[]
 
 [cols="a,a",frame=none,grid=none]
 |===
-|xref:02_When_use_Git.adoc[<= When use Git]
+|xref:02_When_use_Git.adoc[<= When to use Git]
 |xref:04_Install_git.adoc[Install Git =>]
 |===

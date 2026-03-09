@@ -1,6 +1,6 @@
 = Terminology
 
-A Git-Repo consists of the following elements:
+A Git repo consists of the following elements:
 
 image::resources/git-terminology.png[]
 
@@ -16,7 +16,7 @@ git commit -m "<commit-message>"
 
 == Tags
 
-A **tag** is a reference to a specific point in a Git repository's history. It's commonly used to mark important milestones such as releases or versions of a project. The key difference to a branch is, that they are immutable and don't move forward when new changes are added.
+A **tag** is a reference to a specific point in a Git repository's history. It's commonly used to mark important milestones such as releases or versions of a project. The key difference from a branch is that they are immutable and don't move forward when new changes are added.
 
 1. **Lightweight tag**:
 A simple pointer to a commit, similar to a branch, but **immutable**.
@@ -30,7 +30,7 @@ A more detailed tag that includes additional information such as the tagger's na
 git tag -a v0.0.0 -m "<tag-message>"
 ----
 ___
-📌 Demo Antora-Doc with version tags
+📌 Demo Antora doc with version tags
 
 
 == Branch

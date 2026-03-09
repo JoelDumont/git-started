@@ -25,13 +25,13 @@ image::resources/rebase-strategy.png[align=center,width=100%]
 
 image::resources/rebase-clean.png[align=center,width=60%]
 ___
-📌 Provoke a merge-conflict +
-📌 Try the 2. tutorial *Branching in Git*: https://learngitbranching.js.org[Git Tutorials] +
+📌 Provoke a merge conflict +
+📌 Try the second tutorial *Branching in Git*: https://learngitbranching.js.org[Git Tutorials] +
 
 ___
 
 [cols="a,a",frame=none,grid=none]
 |===
 |xref:07_Git_areas.adoc[<= Areas]
-|xref:09_GIT_User_Interfaces.adoc[User Interfaces =>]
+|xref:09_GIT_User_Interfaces.adoc[Git User Interfaces =>]
 |===

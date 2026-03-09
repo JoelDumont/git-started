@@ -136,6 +136,6 @@ Hi username! You've successfully authenticated, but GitHub does not provide shel
 
 [cols="a,a",frame=none,grid=none]
 |===
-|xref:03_Init_Github_repo.adoc[<= Init Github Repo]
+|xref:03_Init_Github_repo.adoc[<= Init GitHub Repo]
 |xref:05_Terminology.adoc[Git Terminology =>]
 |===

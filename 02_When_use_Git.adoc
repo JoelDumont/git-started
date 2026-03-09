@@ -1,4 +1,4 @@
-= When use GIT
+= When to use Git
 
 == Git vs. Other Version Control Systems
 
@@ -22,7 +22,7 @@
 [cols="a,a",frame=none,grid=none]
 |===
 |xref:01_About_Git.adoc[<= About Git]
-|xref:03_Init_Github_repo.adoc[Init Github Repo =>]
+|xref:03_Init_Github_repo.adoc[Init GitHub Repo =>]
 |===
 
 

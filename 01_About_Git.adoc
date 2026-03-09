@@ -1,10 +1,10 @@
-= About GIT
+= About Git
 
 
 
 image::resources/linux-headquarters.png[width=50%,align=center]
 
-== Linux Torwalds
+== Linus Torvalds
 
 Git was created in *2005 by Linus Torvalds*, the same person who developed Linux, one of the most important operating systems in the world.
 At that time, the Linux kernel project — with thousands of contributors — needed a fast, reliable, and distributed version control system. Existing tools either didn’t scale well or weren’t open source.
@@ -21,7 +21,7 @@ I'm an egotistical bastard, and I name all my projects after myself. First 'Linu
 ____
 
 == Git name and meaning
-Official GIT repository: https://github.com/git/git
+Official Git repository: https://github.com/git/git
 
 The first commit message is remarkable.
 
@@ -29,7 +29,7 @@ The first commit message is remarkable.
 .First git-commit message
 image::./resources/linus-first-commit.png[align=center]
 
-.initial ReadMe.md
+.initial README.md
 image::./resources/git-meaning.png[align=center]
 
 ___
