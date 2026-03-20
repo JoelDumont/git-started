@@ -2,6 +2,8 @@
 
 video::https://youtube.com/clip/Ugkxjal9boAk3HaNKGMGwzoTi5Y2m_Euurmi?si=z-LBWPg7vSVi0klC[youtube,align=center]
 
+
+
 [cols="a,a",frame=none,grid=none]
 |===
 |xref:01_About_Git.adoc[<= About Git]
