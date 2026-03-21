@@ -40,8 +40,8 @@ ___
 
 ___
 
-[cols="a,a",frame=none,grid=none]
+[cols="a,>a",frame=none,grid=none]
 |===
-|xref:05_Terminology.adoc[<= Terminology]
-|xref:07_Git_areas.adoc[Areas =>]
+|xref:04_Vibe_coding.adoc[<- Back to Vibe-Coding]
+|xref:06_Git_areas.adoc[Continue to Areas ->]
 |===

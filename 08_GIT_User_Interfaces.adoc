@@ -39,8 +39,8 @@ image::resources/readify-gitviz.png[]
 * https://desktop.github.com/download/[GitHub Desktop] +
 * https://www.sourcetreeapp.com/[Sourcetree]
 
-[cols="a,a",frame=none,grid=none]
+[cols="a,>a",frame=none,grid=none]
 |===
-|xref:08_Branching.adoc[<= Branching]
-|xref:10_Helpful_resources.adoc[Helpful Resources =>]
+|xref:07_Branching.adoc[<- Back to Branching]
+|xref:09_Helpful_resources.adoc[Continue to Helpful Resources ->]
 |===
