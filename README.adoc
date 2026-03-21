@@ -1,21 +1,21 @@
 = Git Started
 
 
-
-image::resources/QR_Code_to_this_repo.png[width=30%,align=center]
-[.text-center]
-QR code to this repo ( qrfy.io/r/UGJabpw6EE )
-
-. xref:00_What_is_a_SCM.adoc[ What is a SCM (Source Control Management)]
+. xref:00_What_is_a_VCS.adoc[ What is a VCS (Version Control System)]
 . xref:01_About_Git.adoc[About Git]
-. xref:02_When_use_Git.adoc[When to use Git]
-. xref:03_Init_Github_repo.adoc[Init GitHub Repo]
-. xref:04_Install_git.adoc[Setup Git]
-. xref:05_Terminology.adoc[Terminology]
-. xref:06_Conventional_Commits.adoc[Conventional Commits]
-. xref:07_Git_areas.adoc[Areas]
-. xref:08_Branching.adoc[Branching]
-. xref:09_GIT_User_Interfaces.adoc[Git User Interfaces]
-. xref:10_Helpful_resources.adoc[Helpful resources]
+. xref:02_Git_workflow.adoc[Git Workflow]
+. xref:03_Terminology.adoc[Terminology]
+. xref:04_Vibe_coding.adoc[Vibe-Coding]
+. xref:05_Conventional_Commits.adoc[Conventional Commits]
+. xref:06_Git_areas.adoc[Areas]
+. xref:07_Branching.adoc[Branching]
+. xref:08_GIT_User_Interfaces.adoc[Git User Interfaces]
+. xref:09_Helpful_resources.adoc[Helpful resources]
 
 
+
+++++
+<p align="center" style="margin-bottom: 10px; margin-top: 50px;"><em>QR code to this repo (qr.link/F5ZOnm)</em></p>
+++++
+
+image::resources/git-started-qr-code.png[width=30%,align=center]

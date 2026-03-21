@@ -30,8 +30,8 @@ ___
 
 ___
 
-[cols="a,a",frame=none,grid=none]
+[cols="a,>a",frame=none,grid=none]
 |===
-|xref:07_Git_areas.adoc[<= Areas]
-|xref:09_GIT_User_Interfaces.adoc[Git User Interfaces =>]
+|xref:06_Git_areas.adoc[<- Back to Areas]
+|xref:08_GIT_User_Interfaces.adoc[Continue to Git User Interfaces ->]
 |===

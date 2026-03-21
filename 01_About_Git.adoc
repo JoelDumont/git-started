@@ -61,10 +61,10 @@ image::./resources/git-2008-website.png[]
 image::./resources/git-2025-website.png[]
 
 
-[cols="a,a",frame=none,grid=none]
+[cols="a,>a",frame=none,grid=none]
 |===
-|xref:00_What_is_a_SCM.adoc[<= What is a SCM]
-|xref:02_When_use_Git.adoc[When use Git =>]
+|xref:00_What_is_a_VCS.adoc[<- Back to What is a VCS]
+|xref:02_Git_workflow.adoc[Continue to Git Workflow ->]
 |===
 
 
