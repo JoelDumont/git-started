@@ -6,6 +6,7 @@
     "release": "semantic-release"
   },
   "devDependencies": {
+    "conventional-changelog-conventionalcommits": "^9.3.0",
     "semantic-release": "^23.0.0"
   },
   "repository": {
