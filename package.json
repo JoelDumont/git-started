@@ -20,7 +20,7 @@
       [
         "@semantic-release/commit-analyzer",
         {
-          "preset": "conventionalcommits",
+          "preset": "angular",
           "parserOpts": {
             "noteKeywords": [
               "!:",
