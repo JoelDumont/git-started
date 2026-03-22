@@ -33,9 +33,8 @@ image::./resources/linus-first-commit.png[align=center]
 image::./resources/git-meaning.png[align=center]
 
 ___
-📌 Demo first git commit +
-📌 Show git repo evolution
 
+📌 Demo first git commit
 ___
 
 
