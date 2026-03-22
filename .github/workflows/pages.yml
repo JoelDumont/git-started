@@ -15,13 +15,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: Install Asciidoctor.js
-        run: npm install -g asciidoctor
+      - name: Install Asciidoctor
+        run: gem install asciidoctor
 
       - name: Convert AsciiDoc to HTML
         run: |
@@ -45,4 +40,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
