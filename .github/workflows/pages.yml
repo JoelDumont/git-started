@@ -23,9 +23,12 @@ jobs:
       - name: Convert AsciiDoc to HTML
         run: |
           mkdir -p public
-          asciidoctor -D public *.adoc
+          asciidoctor -D public README.adoc
           cp public/README.html public/index.html
+          asciidoctor -D public [0-9]*.adoc
           cp -r resources public/
+          touch public/.nojekyll
+          test -f public/index.html
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
