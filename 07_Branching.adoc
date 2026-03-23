@@ -32,6 +32,6 @@ ___
 
 [cols="a,>a",frame=none,grid=none]
 |===
-|xref:06_Git_areas.adoc[<- Back to Areas]
+|xref:06_Github.adoc[<- Back to Github]
 |xref:08_GIT_User_Interfaces.adoc[Continue to Git User Interfaces ->]
 |===
