@@ -21,13 +21,63 @@
       [
         "@semantic-release/commit-analyzer",
         {
-          "preset": "conventionalcommits"
+          "preset": "conventionalcommits",
+          "parserOpts": {
+            "noteKeywords": [
+              "BREAKING CHANGE",
+              "BREAKING CHANGES"
+            ]
+          },
+          "releaseRules": [
+            {
+              "breaking": true,
+              "release": "major"
+            },
+            {
+              "type": "feat!",
+              "release": "major"
+            },
+            {
+              "type": "fix!",
+              "release": "major"
+            },
+            {
+              "type": "perf!",
+              "release": "major"
+            },
+            {
+              "type": "revert!",
+              "release": "major"
+            },
+            {
+              "type": "feat",
+              "release": "minor"
+            },
+            {
+              "type": "fix",
+              "release": "patch"
+            },
+            {
+              "type": "perf",
+              "release": "patch"
+            },
+            {
+              "type": "revert",
+              "release": "patch"
+            }
+          ]
         }
       ],
       [
         "@semantic-release/release-notes-generator",
         {
-          "preset": "conventionalcommits"
+          "preset": "conventionalcommits",
+          "parserOpts": {
+            "noteKeywords": [
+              "BREAKING CHANGE",
+              "BREAKING CHANGES"
+            ]
+          }
         }
       ],
       "@semantic-release/github"
