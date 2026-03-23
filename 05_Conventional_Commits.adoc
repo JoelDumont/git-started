@@ -1,5 +1,6 @@
 = Conventional Commits
-
+:stylesheet: docs.css
+:stylesdir: resources
 
 == Conventional Commits
 A specification like https://www.conventionalcommits.org/en/v1.0.0/[Conventional-Commits] can help to have a more uniform commit-history and enables you to generate versions depending on the commit title.

@@ -15,7 +15,12 @@
 
 
 ++++
-<p align="center" style="margin-bottom: 10px; margin-top: 50px;"><em>QR code to this repo (qr.link/F5ZOnm)</em></p>
+<p style="text-align: center; margin-bottom: 10px; margin-top: 50px;"><em>QR code to this repo (qr.link/F5ZOnm)</em></p>
 ++++
 
 image::resources/git-started-qr-code.png[width=30%,align=center]
+
+++++
+<button onclick="window.location.href='https\://joeldumont.github.io/git-started/'" style="display: block; margin: 50px auto 10px auto;"><em>Rendered Docs</em></button>
+++++
+

@@ -1,5 +1,6 @@
 = About Git
-
+:stylesheet: docs.css
+:stylesdir: resources
 
 
 image::resources/linux-headquarters.png[width=50%,align=center]
@@ -33,9 +34,8 @@ image::./resources/linus-first-commit.png[align=center]
 image::./resources/git-meaning.png[align=center]
 
 ___
-
 📌 Demo first git commit
-___
+
 
 
 == Evolution: Then vs. Now

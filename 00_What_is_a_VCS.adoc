@@ -1,5 +1,6 @@
 = What is a VCS (Version Control System)
-
+:stylesheet: docs.css
+:stylesdir: resources
 
 == Manual versioning
 
@@ -26,6 +27,10 @@ image::resources/word_collaboration.png[]
 A distributed version control system (DVCS) like Git allows multiple people to work on the same project simultaneously without overwriting each other's changes. Each contributor has a complete copy of the repository, including its history, on their local machine. This means that you can work offline and still have access to all the features of version control.
 
 In the beginning, Git was designed to manage the Linux kernel development, which involved thousands of contributors. It needed to be fast, efficient, and capable of handling large projects with a distributed team. 
+
+image::resources/distributed-version-db.png[align=center, width=80%]
+
+The following video shows activity in the official Git repository and how developers worked on it. Gource was used to create the visualization.
 
 video::resources/git-distributed-vcs.mp4[width=80%,align=center]
 

@@ -1,4 +1,6 @@
 = Terminology
+:stylesheet: docs.css
+:stylesdir: resources
 
 A Git repo consists of the following elements:
 

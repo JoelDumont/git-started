@@ -1,16 +1,46 @@
 = Git Workflow
+:stylesheet: docs.css
+:stylesdir: resources
 
-. If you don't already have a GitHub account, https://github.com/[sign up at GitHub.com] +
-(with own email or https://10minutemail.net[10minute-mail])
-. Create a repository
+image::resources/git-areas-example.png[align=center,width=80%]
+
+== Simple Git Workflow
+
+1. Create or change files in your project.
+2. Check what changed:
 +
-image::resources/create-github-repo.png[align=center]
-. Choose a name for the repo and create it
+[source,bash]
+----
+git status
+----
+
+3. Add the files you want to include in the next commit:
 +
-image::resources/create-github-repo-2[align=center]
-. Done 🥳
+[source,bash]
+----
+git add .
+----
+
+4. Create a commit with a meaningful message:
 +
-image::resources/create-github-repo-3.png[]
+[source,bash]
+----
+git commit -m "add login form"
+----
+
+5. Upload your work to the remote repository:
++
+[source,bash]
+----
+git push
+----
+
+This is the basic cycle you will use most of the time:
+
+`edit -> git status -> git add -> git commit -> git push`
+
+
+
 
 [cols="a,>a",frame=none,grid=none]
 |===
