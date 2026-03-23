@@ -5,7 +5,6 @@
 . xref:01_What_is_a_VCS.adoc[What is a VCS (Version Control System)]
 . xref:02_Git_workflow.adoc[Git Workflow]
 . xref:03_Terminology.adoc[Terminology]
-. xref:04_Vibe_coding.adoc[Vibe-Coding]
 . xref:05_Conventional_Commits.adoc[Conventional Commits]
 . xref:06_Git_areas.adoc[Areas]
 . xref:07_Branching.adoc[Branching]
@@ -15,12 +14,12 @@
 
 
 ++++
-<p style="text-align: center; margin-bottom: 10px; margin-top: 50px;"><em>QR code to this repo (qr.link/F5ZOnm)</em></p>
+<p align="center" style="margin-bottom: 10px; margin-top: 50px;"><em>QR code to this repo (qr.link/F5ZOnm)</em></p>
 ++++
 
 image::resources/git-started-qr-code.png[width=30%,align=center]
 
 ++++
-<button onclick="window.location.href='https\://joeldumont.github.io/git-started/'" style="display: block; margin: 50px auto 10px auto;"><em>Rendered Docs</em></button>
+<p align="center"><a href="https://joeldumont.github.io/git-started/">Rendered docs</a></p>
 ++++
 

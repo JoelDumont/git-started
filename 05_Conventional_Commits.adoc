@@ -42,6 +42,6 @@ ___
 
 [cols="a,>a",frame=none,grid=none]
 |===
-|xref:04_Vibe_coding.adoc[<- Back to Vibe-Coding]
+|xref:03_Terminology.adoc[<- Back to Terminology]
 |xref:06_Git_areas.adoc[Continue to Areas ->]
 |===
