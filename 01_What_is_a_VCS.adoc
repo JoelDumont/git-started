@@ -36,7 +36,7 @@ video::resources/git-distributed-vcs.mp4[width=80%,align=center]
 
 [cols="a,>a",frame=none,grid=none]
 |===
-|
-|xref:01_About_Git.adoc[Continue to About Git ->]
+|xref:00_About_Git.adoc[<- Back to About Git]
+|xref:02_Git_workflow.adoc[Continue to Git Workflow ->]
 |===
 

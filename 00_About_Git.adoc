@@ -61,8 +61,8 @@ image::./resources/git-2025-website.png[]
 
 [cols="a,>a",frame=none,grid=none]
 |===
-|xref:00_What_is_a_VCS.adoc[<- Back to What is a VCS]
-|xref:02_Git_workflow.adoc[Continue to Git Workflow ->]
+|
+|xref:01_What_is_a_VCS.adoc[Continue to What is a VCS ->]
 |===
 
 

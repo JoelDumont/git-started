@@ -3,6 +3,19 @@
 
 video::https://youtube.com/clip/Ugkxjal9boAk3HaNKGMGwzoTi5Y2m_Euurmi?si=z-LBWPg7vSVi0klC[youtube,align=center]
 
+++++
+<div style="text-align: center;">
+  <iframe
+    width="800"
+    height="450"
+    src="https://youtube.com/clip/Ugkxjal9boAk3HaNKGMGwzoTi5Y2m_Euurmi?si=z-LBWPg7vSVi0klC"
+    title="Linus on vibe-coding"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+++++
 
 [cols="a,>a",frame=none,grid=none]
 |===

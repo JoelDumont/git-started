@@ -31,7 +31,7 @@ A more detailed tag that includes additional information such as the tagger's na
 git tag -a v0.0.0 -m "<tag-message>"
 ----
 ___
-📌 Demo Antora doc with version tags
+📌 Demo what release.yml does
 
 
 == Branch
@@ -58,25 +58,6 @@ image::resources/git-head-on-branch.png[align=center,width=40%]
 * A detached HEAD state occurs when HEAD points to a specific commit, not a branch.
 
 image::resources/detached-head.png[align=center,width=40%]
-
-
-== Pull Request vs Merge Request
-
-image::resources/pr_vs_mr.png[align=center,width=60%]
-
-Short answer: they are basically the same.
-
-Both describe a proposal to integrate changes from one branch into another, usually with review, discussion, and CI checks before integration.
-
-Common differences you might see:
-
-* Naming by platform: GitHub uses Pull Request (PR), GitLab mostly uses Merge Request (MR).
-* Wording focus: "pull" highlights pulling commits into the target branch, "merge" highlights combining branches.
-* UI and features: approvals, templates, reviewers, and merge options vary a bit by platform.
-* Team conventions: some teams say PR everywhere, others say MR, even when the underlying flow is identical.
-
-So in day-to-day work, PR and MR are interchangeable concepts: "please review my branch before it is merged."
-
 
 ___
 📌 Try the 1. tutorial *Introduction to Git Commits*: https://learngitbranching.js.org[Git Tutorials]
