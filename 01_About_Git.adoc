@@ -1,6 +1,5 @@
 = About Git
-:stylesheet: docs.css
-:stylesdir: resources
+
 
 
 image::resources/linux-headquarters.png[width=50%,align=center]

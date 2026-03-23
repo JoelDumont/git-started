@@ -1,6 +1,5 @@
 == Branching
-:stylesheet: docs.css
-:stylesdir: resources
+
 
 === Merge vs Rebase
 

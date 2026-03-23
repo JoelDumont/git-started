@@ -1,6 +1,5 @@
 = What is a VCS (Version Control System)
-:stylesheet: docs.css
-:stylesdir: resources
+
 
 == Manual versioning
 

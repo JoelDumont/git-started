@@ -1,6 +1,5 @@
 = Vibe-Coding
-:stylesheet: docs.css
-:stylesdir: resources
+
 
 video::https://youtube.com/clip/Ugkxjal9boAk3HaNKGMGwzoTi5Y2m_Euurmi?si=z-LBWPg7vSVi0klC[youtube,align=center]
 

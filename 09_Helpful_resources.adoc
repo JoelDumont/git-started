@@ -1,6 +1,5 @@
 = Helpful resources
-:stylesheet: docs.css
-:stylesdir: resources
+
 
 === Shortcut Cheat Sheet
 link:resources/git-cheat-sheet-education.pdf[Git Cheat-Sheet]

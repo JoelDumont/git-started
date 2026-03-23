@@ -1,6 +1,5 @@
 = User Interfaces
-:stylesheet: docs.css
-:stylesdir: resources
+
 
 == ⚠️ A Note for Beginners: Use the Command Line First!
 

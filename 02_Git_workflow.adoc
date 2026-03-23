@@ -1,6 +1,5 @@
 = Git Workflow
-:stylesheet: docs.css
-:stylesdir: resources
+
 
 image::resources/git-areas-example.png[align=center,width=80%]
 

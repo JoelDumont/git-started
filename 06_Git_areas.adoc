@@ -1,6 +1,5 @@
 = Areas
-:stylesheet: docs.css
-:stylesdir: resources
+
 
 
 [cols="a,>a",frame=none,grid=none]
