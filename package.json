@@ -22,12 +22,6 @@
         "@semantic-release/commit-analyzer",
         {
           "preset": "conventionalcommits",
-          "parserOpts": {
-            "noteKeywords": [
-              "BREAKING CHANGE",
-              "BREAKING CHANGES"
-            ]
-          },
           "releaseRules": [
             {
               "breaking": true,
@@ -71,13 +65,7 @@
       [
         "@semantic-release/release-notes-generator",
         {
-          "preset": "conventionalcommits",
-          "parserOpts": {
-            "noteKeywords": [
-              "BREAKING CHANGE",
-              "BREAKING CHANGES"
-            ]
-          }
+          "preset": "conventionalcommits"
         }
       ],
       "@semantic-release/github"
