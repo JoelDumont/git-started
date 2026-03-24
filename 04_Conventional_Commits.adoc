@@ -36,13 +36,10 @@ image::resources/git-versioning.png[align=center]
 Semantic-release combines all commits since the last tag and determines the *highest* bump needed. If there's a `feat!` anywhere, it's MAJOR; otherwise if there's a `feat`, it's MINOR; otherwise if there's a `fix`, it's PATCH.
 
 ___
-📌 Demo control-room conventional-commits
-
-___
 📌 Demo what release.yml does
 
 [cols="a,>a",frame=none,grid=none]
 |===
 |xref:03_Terminology.adoc[<- Back to Terminology]
-|xref:06_Branching.adoc[Continue to Branching ->]
+|xref:05_Branching.adoc[Continue to Branching ->]
 |===

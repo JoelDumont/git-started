@@ -2,7 +2,6 @@
 
 
 === Shortcut Cheat Sheet
-link:resources/git-cheat-sheet-education.pdf[Git Cheat-Sheet]
 
 === The Git Bible
 Link to: link:./resources/book-pro-git.pdf[Git Pro Book]
@@ -23,7 +22,7 @@ https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file#build-you
 
 [cols="a,>a",frame=none,grid=none]
 |===
-|xref:08_GIT_User_Interfaces.adoc[<- Back to Git User Interfaces]
+|xref:06_Github.adoc[<- Back to Github Features]
 |
 |===
 

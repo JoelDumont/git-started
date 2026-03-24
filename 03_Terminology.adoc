@@ -66,5 +66,5 @@ ___
 [cols="a,>a",frame=none,grid=none]
 |===
 |xref:02_Git_workflow.adoc[<- Back to Git Workflow]
-|xref:05_Conventional_Commits.adoc[Continue to Conventional Commits ->]
+|xref:04_Conventional_Commits.adoc[Continue to Conventional Commits ->]
 |===

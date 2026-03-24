@@ -41,6 +41,6 @@ pass:[<br>]
 
 [cols="a,>a",frame=none,grid=none]
 |===
-|xref:05_Conventional_Commits.adoc[<- Back to Conventional Commits]
-|xref:07_Github.adoc[Continue to Github Features ->]
+|xref:04_Conventional_Commits.adoc[<- Back to Conventional Commits]
+|xref:06_Github.adoc[Continue to Github Features ->]
 |===
