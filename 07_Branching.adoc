@@ -1,5 +1,6 @@
 == Branching
 
+https://joeldumont.github.io/playground[Visualization of Git Merge/Rebase]
 
 === Merge vs Rebase
 
@@ -14,7 +15,6 @@ This strategy is used by the git-project by itself:
 image::resources/git-merge.png[align=center,width=100%]
 
 ==== Rebase
-
 
 * Rebase adds commits at the end of the target branch without a new commit and assures a linear history.
 

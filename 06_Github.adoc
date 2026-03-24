@@ -1,5 +1,6 @@
 = Github
 
+
 == Pull Request vs Merge Request
 
 image::resources/pr_vs_mr.png[align=center,width=60%]
