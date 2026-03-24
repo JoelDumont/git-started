@@ -1,0 +1,69 @@
+= About Git
+
+
+
+image::resources/linux-headquarters.png[width=50%,align=center]
+
+== Linus Torvalds
+
+Git was created in *2005 by Linus Torvalds*, the same person who developed Linux, one of the most important operating systems in the world.
+At that time, the Linux kernel project - with thousands of contributors - needed a fast, reliable, and distributed version control system. Existing tools either didn't scale well or weren't open source.
+So Linus designed Git to solve these problems:
+
+Speed
+Data integrity
+Support for distributed workflows
+In just a few weeks, Linus built the first version of Git. Today, Git has grown into the most popular version control system, used by millions of developers worldwide - from open-source projects to large corporations like Google and Microsoft.
+
+[quote, Linus Torwalds]
+____
+I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'Git'.
+____
+
+== Git name and meaning
+Official Git repository: https://github.com/git/git
+
+The first commit message is remarkable.
+
+
+.First git-commit message
+image::./resources/linus-first-commit.png[align=center]
+
+.initial README.md
+image::./resources/git-meaning.png[align=center]
+
+___
+📌 Demo first git commit
+
+
+
+== Evolution: Then vs. Now
+
+In 2006, Git was still new and primarily used by the Linux kernel project, which was the driving force behind its creation. Early adopters included other open-source projects like X.org and Ruby on Rails, but mainstream adoption was still limited, as many teams were using Subversion (SVN), Mercurial, or Perforce at the time.
+
+Fast forward to today, Git has become the industry standard. It is used by nearly every major tech company and open-source project. Platforms like GitHub, GitLab, and Bitbucket have made Git the backbone of software development. Some of the biggest projects using Git now include:
+
+* Linux Kernel (still!)
+* Kubernetes (Google)
+* React, Angular, and Vue.js (Frontend frameworks)
+* Android OS (Google)
+* TensorFlow (AI/ML by Google)
+* Microsoft Windows source code (since Microsoft moved from TFVC to Git)
+* NASA (for software development in space projects)
+
+=== Website 2008
+
+image::./resources/git-2008-website.png[]
+
+=== Website 2025
+image::./resources/git-2025-website.png[]
+
+
+[cols="a,>a",frame=none,grid=none]
+|===
+|xref:00_What_is_a_VCS.adoc[<- Back to What is a VCS]
+|xref:02_Git_workflow.adoc[Continue to Git Workflow ->]
+|===
+
+
+
