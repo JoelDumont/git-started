@@ -1,8 +1,8 @@
 = Git Started
 
 
-. xref:00_About_Git.adoc[About Git]
-. xref:01_What_is_a_VCS.adoc[What is a VCS (Version Control System)]
+. xref:00_What_is_a_VCS.adoc[What is a VCS (Version Control System)]
+. xref:01_About_Git.adoc[About Git]
 . xref:02_Git_workflow.adoc[Git Workflow]
 . xref:03_Terminology.adoc[Terminology]
 . xref:05_Conventional_Commits.adoc[Conventional Commits]

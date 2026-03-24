@@ -1,5 +1,29 @@
 = Github
 
+== Web IDE
+
+GitHub provides a browser-based IDE at github.dev and in the repository editor view. It is useful for quick edits, reviewing code, creating branches, and opening pull requests without cloning the repository locally.
+
+== GitHub Pages
+
+GitHub Pages hosts static websites directly from a repository. It is useful for publishing documentation, project landing pages, or simple demos with automatic deployment from a selected branch.
+
+== .gitignore
+
+The .gitignore file defines which files and folders Git should not track, such as build output, logs, and editor-specific settings. This helps keep commits clean and prevents accidentally adding generated or local-only files.
+
+== AI Reviews
+
+GitHub can assist code reviews with AI-powered suggestions and summaries. AI reviews can speed up feedback, highlight risky changes, and improve consistency, but final approval should still come from a human reviewer.
+
+== Protect Main Branch
+
+Branch protection rules for the main branch help prevent accidental or unsafe changes. Typical rules require pull requests, passing checks, and at least one approval before merging.
+
+== Squash Commits on PR
+
+Squash merge combines all commits from a pull request into one commit on the target branch. This keeps the main branch history cleaner and makes it easier to understand what changed in each merged PR.
+
 
 == Pull Request vs Merge Request
 
@@ -17,26 +41,6 @@ Common differences you might see:
 * Team conventions: some teams say PR everywhere, others say MR, even when the underlying flow is identical.
 
 So in day-to-day work, PR and MR are interchangeable concepts: "please review my branch before it is merged."
-
-== Web IDE
-
-GitHub provides a browser-based IDE at github.dev and in the repository editor view. It is useful for quick edits, reviewing code, creating branches, and opening pull requests without cloning the repository locally.
-
-== .gitignore
-
-The .gitignore file defines which files and folders Git should not track, such as build output, logs, and editor-specific settings. This helps keep commits clean and prevents accidentally adding generated or local-only files.
-
-== AI Reviews
-
-GitHub can assist code reviews with AI-powered suggestions and summaries. AI reviews can speed up feedback, highlight risky changes, and improve consistency, but final approval should still come from a human reviewer.
-
-== Protect Main Branch
-
-Branch protection rules for the main branch help prevent accidental or unsafe changes. Typical rules require pull requests, passing checks, and at least one approval before merging.
-
-== Squash Commits on PR
-
-Squash merge combines all commits from a pull request into one commit on the target branch. This keeps the main branch history cleaner and makes it easier to understand what changed in each merged PR.
 
 
 [cols="a,>a",frame=none,grid=none]

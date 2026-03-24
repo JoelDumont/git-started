@@ -25,7 +25,7 @@ image::resources/word_collaboration.png[]
 == Distributed Version Control Systems
 A distributed version control system (DVCS) like Git allows multiple people to work on the same project simultaneously without overwriting each other's changes. Each contributor has a complete copy of the repository, including its history, on their local machine. This means that you can work offline and still have access to all the features of version control.
 
-In the beginning, Git was designed to manage the Linux kernel development, which involved thousands of contributors. It needed to be fast, efficient, and capable of handling large projects with a distributed team. 
+In the beginning, Git was designed to manage the Linux kernel development, which involved thousands of contributors. It needed to be fast, efficient, and capable of handling large projects with a distributed team.
 
 image::resources/distributed-version-db.png[align=center, width=80%]
 
@@ -36,7 +36,7 @@ video::resources/git-distributed-vcs.mp4[width=80%,align=center]
 
 [cols="a,>a",frame=none,grid=none]
 |===
-|xref:00_About_Git.adoc[<- Back to About Git]
-|xref:02_Git_workflow.adoc[Continue to Git Workflow ->]
+|
+|xref:01_About_Git.adoc[Continue to About Git ->]
 |===
 

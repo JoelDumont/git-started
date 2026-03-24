@@ -7,13 +7,13 @@ image::resources/linux-headquarters.png[width=50%,align=center]
 == Linus Torvalds
 
 Git was created in *2005 by Linus Torvalds*, the same person who developed Linux, one of the most important operating systems in the world.
-At that time, the Linux kernel project — with thousands of contributors — needed a fast, reliable, and distributed version control system. Existing tools either didn’t scale well or weren’t open source.
+At that time, the Linux kernel project - with thousands of contributors - needed a fast, reliable, and distributed version control system. Existing tools either didn't scale well or weren't open source.
 So Linus designed Git to solve these problems:
 
 Speed
 Data integrity
 Support for distributed workflows
-In just a few weeks, Linus built the first version of Git. Today, Git has grown into the most popular version control system, used by millions of developers worldwide — from open-source projects to large corporations like Google and Microsoft.
+In just a few weeks, Linus built the first version of Git. Today, Git has grown into the most popular version control system, used by millions of developers worldwide - from open-source projects to large corporations like Google and Microsoft.
 
 [quote, Linus Torwalds]
 ____
@@ -61,8 +61,8 @@ image::./resources/git-2025-website.png[]
 
 [cols="a,>a",frame=none,grid=none]
 |===
-|
-|xref:01_What_is_a_VCS.adoc[Continue to What is a VCS ->]
+|xref:00_What_is_a_VCS.adoc[<- Back to What is a VCS]
+|xref:02_Git_workflow.adoc[Continue to Git Workflow ->]
 |===
 
 
