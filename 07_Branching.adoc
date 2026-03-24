@@ -2,6 +2,7 @@
 
 https://joeldumont.github.io/playground[Visualization of Git Merge/Rebase]
 
+
 === Merge vs Rebase
 
 ==== Merge
