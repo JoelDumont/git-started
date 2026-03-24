@@ -39,6 +39,7 @@ ___
 📌 Demo control-room conventional-commits
 
 ___
+📌 Demo what release.yml does
 
 [cols="a,>a",frame=none,grid=none]
 |===

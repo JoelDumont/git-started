@@ -21,8 +21,8 @@
       "@semantic-release/commit-analyzer",
       {
         "preset": "angular"
-      }
-    ],
-    "@semantic-release/github"
+      },
+      "@semantic-release/github"
+    ]
   }
 }

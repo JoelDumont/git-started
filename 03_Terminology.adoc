@@ -30,8 +30,7 @@ A more detailed tag that includes additional information such as the tagger's na
 ----
 git tag -a v0.0.0 -m "<tag-message>"
 ----
-___
-📌 Demo what release.yml does
+
 
 
 == Branch
