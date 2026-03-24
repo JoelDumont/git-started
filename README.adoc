@@ -22,4 +22,3 @@ image::resources/git-started-qr-code.png[width=30%,align=center]
 ++++
 <p align="center"><a href="https://joeldumont.github.io/git-started/">Rendered docs</a></p>
 ++++
-
