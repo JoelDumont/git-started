@@ -7,7 +7,7 @@
 . xref:03_Terminology.adoc[Terminology]
 . xref:05_Conventional_Commits.adoc[Conventional Commits]
 . xref:06_Branching.adoc[Branching]
-. xref:07_Github.adoc[Github]
+. xref:07_Github.adoc[Github Features]
 . xref:08_GIT_User_Interfaces.adoc[Git User Interfaces]
 . xref:09_Helpful_resources.adoc[Helpful resources]
 

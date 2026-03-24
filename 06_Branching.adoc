@@ -1,13 +1,9 @@
 == Branching
 
-https://joeldumont.github.io/playground[Visualization of Git Merge/Rebase]
 
+=== Merge
 
-=== Merge vs Rebase
-
-==== Merge
-
-image::resources/merge-viz.png[align=center,width=50%]
+image::resources/Merge.gif[Merge animation,align=center,width=80%]
 
 * Merge creates a new commit (merge-commit)
 +
@@ -15,24 +11,36 @@ This strategy is used by the git-project by itself:
 
 image::resources/git-merge.png[align=center,width=100%]
 
-==== Rebase
+___
+📌 Provoke a merge conflict 
+
+pass:[<br>]
+
+=== Rebase
 
 * Rebase adds commits at the end of the target branch without a new commit and assures a linear history.
 
-image::resources/rebase-viz.png[align=center,width=50%]
+image::resources/Rebase.gif[Rebase animation,align=center,width=80%]
 
 image::resources/rebase-strategy.png[align=center,width=100%]
 
+pass:[<br>]
+
+
+=== Squash + Rebase
+
+image::resources/Squash_and_rebase.gif[Squash and rebase animation,align=center,width=80%]
 
 image::resources/rebase-clean.png[align=center,width=60%]
-___
-📌 Provoke a merge conflict +
-📌 Try the second tutorial *Branching in Git*: https://learngitbranching.js.org[Git Tutorials] +
 
-___
+pass:[<br>]
+
+* https://joeldumont.github.io/playground[Source of Git Merge/Rebase/Squash animations]
+
+
 
 [cols="a,>a",frame=none,grid=none]
 |===
 |xref:05_Conventional_Commits.adoc[<- Back to Conventional Commits]
-|xref:07_Github.adoc[Continue to Github ->]
+|xref:07_Github.adoc[Continue to Github Features ->]
 |===

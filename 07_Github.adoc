@@ -1,4 +1,4 @@
-= Github
+= Github Features
 
 == Protect Main Branch
 
