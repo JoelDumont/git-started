@@ -6,7 +6,7 @@
 . xref:02_Git_workflow.adoc[Git Workflow]
 . xref:03_Terminology.adoc[Terminology]
 . xref:05_Conventional_Commits.adoc[Conventional Commits]
-. xref:06_Git_areas.adoc[Areas]
+. xref:06_Github.adoc[Areas]
 . xref:07_Branching.adoc[Branching]
 . xref:08_GIT_User_Interfaces.adoc[Git User Interfaces]
 . xref:09_Helpful_resources.adoc[Helpful resources]
