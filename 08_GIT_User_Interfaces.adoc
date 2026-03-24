@@ -42,6 +42,6 @@ image::resources/readify-gitviz.png[]
 
 [cols="a,>a",frame=none,grid=none]
 |===
-|xref:07_Branching.adoc[<- Back to Branching]
+|xref:07_Github.adoc[<- Back to Github]
 |xref:09_Helpful_resources.adoc[Continue to Helpful Resources ->]
 |===

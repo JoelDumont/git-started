@@ -33,6 +33,6 @@ ___
 
 [cols="a,>a",frame=none,grid=none]
 |===
-|xref:06_Github.adoc[<- Back to Github]
-|xref:08_GIT_User_Interfaces.adoc[Continue to Git User Interfaces ->]
+|xref:05_Conventional_Commits.adoc[<- Back to Conventional Commits]
+|xref:07_Github.adoc[Continue to Github ->]
 |===

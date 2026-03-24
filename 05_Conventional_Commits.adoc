@@ -44,5 +44,5 @@ ___
 [cols="a,>a",frame=none,grid=none]
 |===
 |xref:03_Terminology.adoc[<- Back to Terminology]
-|xref:06_Github.adoc[Continue to Github ->]
+|xref:06_Branching.adoc[Continue to Branching ->]
 |===
