@@ -43,6 +43,6 @@ This is the basic cycle you will use most of the time:
 
 [cols="a,>a",frame=none,grid=none]
 |===
-|xref:01_What_is_a_VCS.adoc[<- Back to What is a VCS]
+|xref:01_About_Git.adoc[<- Back to About Git]
 |xref:03_Terminology.adoc[Continue to Terminology ->]
 |===
