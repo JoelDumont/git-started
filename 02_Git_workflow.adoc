@@ -39,8 +39,6 @@ This is the basic cycle you will use most of the time:
 `edit -> git status -> git add -> git commit -> git push`
 
 
-
-
 [cols="a,>a",frame=none,grid=none]
 |===
 |xref:01_About_Git.adoc[<- Back to About Git]
